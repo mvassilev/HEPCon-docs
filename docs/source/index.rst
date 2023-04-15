@@ -32,5 +32,7 @@ Contents
 
 .. toctree::
 
+   installation
    usage
+      test
    request

@@ -1,22 +1,14 @@
 Usage
 =====
 
-Installation
+From organizer's perspective
 ------------
 
-To use HEPCon, first install it via
-![Apple AppStore](https://www.hepcon.app/assets/img/appstore.svg)
-or
-![Google Play](https://www.hepcon.app/assets/img/googleplay.svg)
-
-For organizers
+From convener's perspective
 ------------
 
-For conveners
+From speaker's perspective
 ------------
 
-For speakers
-------------
-
-For attendees
+From attendee's perspective
 ------------
