@@ -15,7 +15,7 @@ Navigate to the Account page and click on the Create Account button.
    :alt: sign up page
    :align: right
 
- | The three text boxes - email, public name and password are required. The public name field will be shown when you post comments, etc instead of your email.
+The three text boxes - email, public name and password are required. The public name field will be shown when you post comments, etc instead of your email.
 
 .. image:: https://hepcon.app/assets/img/screenshots/signup.png
    :width: 100px
