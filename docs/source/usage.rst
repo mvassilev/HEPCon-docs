@@ -9,8 +9,8 @@ The three text boxes - email, public name and password are required. The public 
 
 .. raw:: HTML
    <div style="display: flex">
-        <img style="width: 130px;" src="https://hepcon.app/assets/img/screenshots/menu.png">
-        <img style="width: 130px;" src="https://hepcon.app/assets/img/screenshots/signup.png">
+        <img style="width: 130px;" src="../images/menu.png">
+        <img style="width: 130px;" src="../../images/signup.png">
         <img style="width: 130px;" src="https://hepcon.app/assets/img/screenshots/loggedin.png">
     </div>
 
