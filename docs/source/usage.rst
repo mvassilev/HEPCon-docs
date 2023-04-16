@@ -9,7 +9,7 @@ The three text boxes - email, public name and password are required. The public 
 
 .. raw:: HTML
    <div style="display: flex">
-        <img style="width: 130px;" src="_static/menu.png">
+        <img style="width: 130px;" src="{{ pathto('_static/menu.png') }}">
         <img style="width: 130px;" src="/_static/signup.png">
         <img style="width: 130px;" src="_static/loggedin.png">
     </div>
