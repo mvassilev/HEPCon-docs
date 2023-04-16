@@ -17,7 +17,7 @@ The three text boxes - email, public name and password are required. The public 
    :alt: sign up page
    :align: center
 
-.. image:: https://hepcon.app/assets/img/screenshots/loggedin.png.png
+.. image:: https://hepcon.app/assets/img/screenshots/loggedin.png
    :width: 130px
    :alt: sign in page
    :align: right
