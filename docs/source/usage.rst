@@ -18,7 +18,6 @@ The three text boxes - email, public name and password are required. The public 
 .. image:: https://hepcon.app/assets/img/screenshots/signup.png
    :width: 100px
    :alt: sign in page
-   :align: right
 
 
 From organizer's perspective
