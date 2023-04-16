@@ -1,3 +1,6 @@
+|br| raw:: html
+
+   <br />
 Usage
 =====
 
@@ -5,26 +8,23 @@ Almost all of the HEPCon specific functionality requires an active account.
 The process of registering and logging in is very simple.
 Navigate to the Account page and click on the Create Account button.
 
-
-
-.. |main_menu| image:: _static/menu.png
+..  image:: _static/menu.png
    :width: 250px
    :alt: main menu
    :align: left
 
-.. |account| image:: https://hepcon.app/assets/img/screenshots/account.png
+.. image:: https://hepcon.app/assets/img/screenshots/account.png
    :width: 150px
    :alt: sign up page
    :align: right
 
-| The three text boxes - email, public name and password are required. The public name field will be shown when you post comments, etc instead of your email.
+|br|
+The three text boxes - email, public name and password are required. The public name field will be shown when you post comments, etc instead of your email.
 
-.. |signup| image:: https://hepcon.app/assets/img/screenshots/signup.png
+.. image:: https://hepcon.app/assets/img/screenshots/signup.png
    :width: 100px
    :alt: sign in page
    :align: right
-
-|main_menu| |account| |signup|
 
 From organizer's perspective
 ------------
