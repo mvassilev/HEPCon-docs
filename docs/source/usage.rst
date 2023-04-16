@@ -3,7 +3,7 @@ Usage
 
 Almost all of the HEPCon specific functionality requires an active account.
 The process of registering and logging in is very simple.
- | Navigate to the Account page and click on the Create Account button.
+Navigate to the Account page and click on the Create Account button.
 
 .. image:: _static/menu.png
    :width: 150px
