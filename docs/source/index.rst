@@ -34,5 +34,4 @@ Contents
 
    installation
    usage
-      test
    request
