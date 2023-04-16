@@ -5,18 +5,21 @@ Almost all of the HEPCon specific functionality requires an active account.
 The process of registering and logging in is very simple.
 Navigate to the Account page and click on the Create Account button.
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://hepcon.app/assets/img/screenshots/menu.png)  |  ![](https://hepcon.app/assets/img/screenshots/signup.png)
+The three text boxes - email, public name and password are required. The public name field will be shown when you post comments, etc instead of your email.
 
 .. image:: https://hepcon.app/assets/img/screenshots/menu.png
-   :width: 300px
-   :alt: alternate text
+   :width: 100px
+   :alt: main menu
    :align: left
 
 .. image:: https://hepcon.app/assets/img/screenshots/signup.png
-   :width: 300px
-   :alt: alternate text
+   :width: 100px
+   :alt: sign up page
+   :align: center
+
+.. image:: https://hepcon.app/assets/img/screenshots/signin.png
+   :width: 100px
+   :alt: sign in page
    :align: right
 
 From organizer's perspective
