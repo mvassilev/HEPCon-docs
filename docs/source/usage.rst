@@ -5,7 +5,7 @@ Almost all of the HEPCon specific functionality requires an active account.
 The process of registering and logging in is very simple.
 Navigate to the Account page and click on the Create Account button.
 
-.. image:: https://hepcon.app/assets/img/screenshots/menu.png
+.. image:: _static/menu.png
    :width: 150px
    :alt: main menu
    :align: left
