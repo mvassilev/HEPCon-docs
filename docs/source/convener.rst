@@ -20,17 +20,28 @@ Navigating in "Moderator View" is going to open another page like the following:
 
 This Moderator View page is separated in the following areas:
 
-Control presentation start and end times
--------------------------------------------- 
+Standart information
+--------------------
 
+The standart information like title, start/end time, speaker, location.
 
+Moderator control
+-----------------
 
-.. image:: _static/convener-presentation.png
-   :width: 200px
-   :alt: main menu
+Moderator settings
+------------------
 
-.. image:: _static/new-announcement.png
-   :width: 200px
-   :alt: sign up page
+Moderator questions
+-----------------
 
-You can notice the button "Add New Announcement" is available only in this mode.
+Questions slots requested
+-------------------------
+
+Questionnaire
+-------------
+
+Next presentation
+-----------------
+
+Previous presentation
+---------------------
