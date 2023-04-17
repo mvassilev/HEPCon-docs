@@ -1,4 +1,4 @@
-Organizer perspective
+Convener perspective
 =====
 
 Organizers are users with special access level. They can:
