@@ -8,6 +8,12 @@ You have to go to the details of a presentation and if you had signed in with yo
    :width: 200px
    :alt: main menu
 
+Navigating in "Moderator View" is going to open another page like the following:
+
+.. image:: _static/convener-main.png
+   :width: 200px
+   :alt: main menu
+
 Control presentation start and end times
 -------------------------------------------- 
 
