@@ -14,6 +14,12 @@ Navigating in "Moderator View" is going to open another page like the following:
    :width: 200px
    :alt: main menu
 
+.. image:: _static/convener-main2.png
+   :width: 200px
+   :alt: main menu
+
+This Moderator View page is separated in the following areas:
+
 Control presentation start and end times
 -------------------------------------------- 
 
