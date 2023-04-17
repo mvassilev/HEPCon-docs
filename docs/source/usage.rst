@@ -47,3 +47,10 @@ From speaker's perspective
 
 From attendee's perspective
 ------------
+
+.. toctree::
+
+   organizer
+   convener
+   speaker
+   attendee
