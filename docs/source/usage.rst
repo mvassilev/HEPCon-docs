@@ -17,8 +17,10 @@ Navigate to the Account page and click on the Create Account button.
    :width: 200px
    :alt: sign in page
 
-The three text boxes - email, public name and password are required. The public name field will be shown when you post comments, etc instead of your email.
+The three text boxes - email, public name and password are required. The public name field will be shown when you post comments and others, instead of your email.
+After signing up you will receive an email containing a confirmation link. Once you click on it your account is activated and ready to be used.
 
+Then you navigate to the Sign In page and log in.
 
 
 
