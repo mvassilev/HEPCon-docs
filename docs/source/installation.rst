@@ -18,7 +18,8 @@ To use HEPCon, first install it via
                 </a>
               </div>
             </div>
-            <div class="col-md-6 align-self-end text-center">
-              <img src="_static/hepcon.png" alt="HEPCon app" class="aos-init aos-animate footer-image">
-            </div>
           </div>
+
+.. image:: _static/hepcon.png
+   :width: 200px
+   :alt: sign up page
