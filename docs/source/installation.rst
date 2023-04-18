@@ -18,7 +18,7 @@ Installation
                 </a>
               </div>
             </div>
-            <div style="width: 400px; margin-bottom: 50px;">
+            <div style="width: 200px; margin: 0 50px 50px;">
               <img src="_static/hepcon.png" alt="HEPCon app" class="aos-init aos-animate footer-image">
             </div>
           </div>
