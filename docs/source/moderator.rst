@@ -14,11 +14,11 @@ Navigating in "Moderator View" is going to open another page like the following:
 
 .. image:: _static/convener-main.png
    :width: 200px
-   :alt: main menu
+   :alt: convener top part of the page
 
 .. image:: _static/convener-main2.png
    :width: 200px
-   :alt: main menu
+   :alt: convener bottom part of the page
 
 Standart information
 --------------------
@@ -28,7 +28,7 @@ The standart information like title, start/end time, speaker, location.
 Moderator control
 -----------------
 It is not unusual when a presentation actually starts with a delay or ahead of schedule.
-When an attendee is interested in such a presentation chanses are them might not join the desired presentation on time
+When attendees are interested in such a presentation chanses are they might not join the desired presentation on time
 because they would not know when it actually started.
 
 Moderator Control is the place where a moderator could start and end a presentation dynamically so the attendees would know the actual start time.
@@ -36,10 +36,19 @@ Presentations with dynamically overriden schedule are presented to the attendees
 
 .. image:: _static/convener-dynamic-schedule.png
    :width: 200px
-   :alt: main menu
+   :alt: moderator dynamic schedule
+
+It is in the todo list for them to receive push notifications if they had favorited a presentation which schedule is altered.
 
 Moderator settings
 ------------------
+There is the Moderator settings page available by clicking the gear icon in the top right corner when in Moderator View mode.
+There are options for a moderator to set reminders when the presentation is supposed to end
+and two more additional reminders when certain amount of the presentation is passed.
+
+.. image:: _static/convener-settings.png
+   :width: 200px
+   :alt: moderator settings
 
 Moderator questions
 -----------------
