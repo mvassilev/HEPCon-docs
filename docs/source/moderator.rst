@@ -1,4 +1,4 @@
-Moderator perspective
+Moderator's perspective
 =====
 
 Moderators (conveners) are users with special access level. You simply need to register and sign in with your Indico convener email.

@@ -1,4 +1,4 @@
-Organizer perspective
+Organizer's perspective
 =====
 
 Organizers are users with special access level. They can:
