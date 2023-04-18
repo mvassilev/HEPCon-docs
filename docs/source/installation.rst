@@ -2,7 +2,6 @@ Installation
 ============
 
 To use HEPCon, first install it via
-.. raw:: html
-    <a href="https://apps.apple.com/us/app/hepcon/id1286500651"><img src="https://www.hepcon.app/assets/img/appstore.svg"></a>
+https://apps.apple.com/us/app/hepcon/id1286500651 from AppStore
     or
-    <a href="https://play.google.com/store/apps/details?id=com.hepcon.chep2018&hl=en&gl=US"><img src="https://www.hepcon.app/assets/img/googleplay.svg"></a>
+https://play.google.com/store/apps/details?id=com.hepcon.chep2018&hl=en&gl=US from Google Play
