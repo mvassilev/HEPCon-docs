@@ -28,7 +28,7 @@ The standart information like title, start/end time, speaker, location.
 Moderator control
 -----------------
 It is not unusual when a presentation actually starts with a delay or ahead of schedule.
-When attendees are interested in such a presentation chanses are they might not join the desired presentation on time
+When attendees are interested in such a presentation chances are they might not join the desired presentation on time
 because they would not know when it actually started.
 
 Moderator Control is the place where a moderator could start and end a presentation dynamically so the attendees would know the actual start time.
@@ -60,7 +60,7 @@ This section would contain all the questions the attendees had sent while partic
 Questions slots requested
 -------------------------
 
-This sections includes attendees that had request for asking questions themselves.
+This section includes attendees that had request for asking questions themselves.
 They would appear in a list in order based on the time they have places the request.
 
 It is in the TODO list to mark whether they have a question or a comment.
