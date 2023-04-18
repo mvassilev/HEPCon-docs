@@ -25,6 +25,6 @@ Then you navigate to the Sign In page and log in.
 .. toctree::
 
    organizer
-   convener
+   moderator
    speaker
    attendee
