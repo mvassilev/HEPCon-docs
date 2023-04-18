@@ -3,8 +3,8 @@ Installation
 
 .. raw:: html
 
-    <div class="row">
-            <div style="float:left">
+    <div style="display: flex">
+            <div>
               <h3 class="mb-5">Available on iOS and Android</h3>
               <p>As absolute is by amounted repeated entirely ye returned. These ready timed enjoy might sir yet one since. Years drift never if could forty being no. On estimable dependent as suffering on my.</p>
               <div class="gap-xy-2 my-6">
@@ -16,8 +16,7 @@ Installation
                 </a>
               </div>
             </div>
-            <div style="float:right">
+            <div style="width: 400px; margin-bottom: 50px;">
               <img src="_static/hepcon.png" alt="HEPCon app" class="aos-init aos-animate footer-image">
             </div>
-            <div style="clear: both"></div>
           </div>
