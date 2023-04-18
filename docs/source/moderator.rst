@@ -80,3 +80,17 @@ Previous presentation
 ---------------------
 
 Section containing which is the previous presentation.
+
+Blocking and unblocking attendees from messaging
+---------------------------------
+
+The moderators are authorized by default to block attendees from messaging if there is abuse.
+This could be done by navigating to the Participants page and navigating to the details of a certain participant and clicking the Block button.
+
+.. image:: _static/participants-list.png
+   :width: 200px
+   :alt: participants list
+
+.. image:: _static/participant-details.png
+   :width: 200px
+   :alt: participant details
